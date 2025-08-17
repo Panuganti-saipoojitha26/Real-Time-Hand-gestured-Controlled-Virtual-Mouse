@@ -1,0 +1,2 @@
+# Real-Time-Hand-gestured-Controlled-Virtual-Mouse
+This project allows users to control  computer cursor and perform mouse actions using hand gestures detected via a webcam. MediaPipe tracks hand landmarks, OpenCV handles video processing, and PyAutoGUI simulates cursor movement, clicks, and scrolling. It provides a touchless, intuitive interface useful for presentations, gaming, and accessibility.
